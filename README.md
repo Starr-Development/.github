@@ -5,11 +5,11 @@ Star Development is a group of professionals dedicated to providing high-quality
 Group of Developers, Pluginners, Builder
 Programming Languages:
 
-Java
-JavaScript
-C++
-C#
-PHP
-CSS
-Python
-Lua
+Java,
+JavaScript,
+C++,
+C#,
+PHP,
+CSS,
+Python,
+Lua.
